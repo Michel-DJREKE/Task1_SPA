@@ -96,7 +96,7 @@ const HeroSection = () => {
           >
            <div className="rounded-2xl border bg-card shadow-xl p-4 md:p-6">
               <img
-                src="/src/assets/dashboard_image.png"
+                src="/public/assets/dashboard_image.png"
                 alt="Dashboard de la plateforme"
                 className="rounded-xl w-full"
               />
